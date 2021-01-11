@@ -32,7 +32,10 @@ function HeroSection() {
         >
           Linkedin Profile <i class="fab fa-linkedin"></i>
         </Button>
+       
       </div>
+      <p> Contact me at: 88870120 / parkjunhyukssi@gmail.com </p>
+      <p> or via my social media linked in the footer </p>
     </div>
   );
 }
