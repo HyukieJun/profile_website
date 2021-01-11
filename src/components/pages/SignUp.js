@@ -2,5 +2,10 @@ import React from 'react';
 import '../../App.css';
 
 export default function SignUp() {
-  return <h1 className='sign-up'>LIKE & SUBSCRIBE</h1>;
+  return ( 
+  <div className = 'signup'>
+  
+  <p className = 'signup'>Phone number : 88870120 </p>
+  </div>  
+  )
 }
